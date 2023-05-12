@@ -1,0 +1,26 @@
+{
+    "keyboard_name": "ABall",
+    "manufacturer": "Richard Sutherland",
+    "url": "https://github.com/brickbots/aball/",
+    "maintainer": "@brickbots",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0xC2F0",
+        "device_version": "0.0.1"
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "development_board": "kb2040",
+    "matrix_pins": {
+        "direct": [
+            [null]
+        ]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"x":0, "y":0, "matrix": [0, 0]}
+            ]
+        }
+    }
+}
